@@ -91,8 +91,8 @@
       }
 </style> </head>
   <body>
-    <nav> <a href="nuestrosServicios.html">Ir a Nuestros Servicios</a>  <a href="../opinion.html">Ir a Tu Opinión</a> <a href="../index.html">Ir
-        a Index</a> <a href="https://github.com/Imarpe10/raiz">Ir
+    <nav> <a href="nuestrosServicios.html">Ir a Nuestros Servicios</a> <a href="../opinion.html">Ir
+        a Tu Opinión</a> <a href="../index.html">Ir a Index</a> <a href="https://github.com/Imarpe10/tuOpinionCuenta">Ir
         a mi repositorio</a> </nav>
     <p>Nombre de la autora: Isabel Martínez Pérez</p>
     <p>Foto de la autora: <img src="../imagenes/miFoto.JPG" style="width: 147px; height: 111px;">
@@ -101,6 +101,5 @@
     <p>Actividad de la empresa: Formación WEB</p>
     <p>Logotipo: <img src="../imagenes/logo_empresa.jpg" style="width: 71px; height: 84px;">
     </p>
-    
   </body>
 </html>
